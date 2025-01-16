@@ -3,8 +3,8 @@ export default function Lab1() {
     return (
         <div id="wd-lab1">
             <h2>Lab 1</h2>
-            <p>Your full name: </p>
-            <p>Section: </p>
+            <p>Your full name:Ann Thomas </p>
+            <p>Section:37031 </p>
             <h2>Lab Assignments</h2>
             <ul>
                 <li><Link to="/Labs/Lab1">Lab 1</Link></li>
